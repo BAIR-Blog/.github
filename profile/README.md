@@ -24,22 +24,6 @@ The editorial board consists of the following members:
 **Faculty Advisor**: [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) - [𝕏](https://x.com/svlevine) 
 
 
-
-We gratefully acknowledge the contributions of former board members:
-
-* [Ritwik Gupta][18] (former Editor-in-Chief)
-* [Daniel Seita][5] (Founding Editor)
-* [Peter Wu][21]
-* [Yuqing Du][17]
-* [Atsunobu Kotani][15]
-* [Brijen Thananjeyan][16]
-* [Erin Grant][13]
-* [Jacky Liang][12]
-* [Jane Liang][8]
-* [Dequan Wang][6]
-* [Harry Huazhe Xu][7]
-* [Chloe Hsu][14]
-
 To contact the group, send email to `bair-blog@berkeley.edu`.
 
 
