@@ -36,8 +36,7 @@ posts, as they own the copyright, **and** copy the editorial board,
 
 ### Acknowledgments
 
-The design of this blog is based upon the [Jekyll theme Pixyll][1] and further
-based on the design of [Off the Convex Path][2]. We additionally thank Berkeley
+We additionally thank Berkeley
 Artificial Intelligence Research for hosting support.
 
 [1]:https://github.com/johnotander/pixyll
