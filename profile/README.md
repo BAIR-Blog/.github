@@ -47,19 +47,6 @@ Artificial Intelligence Research for hosting support.
 [6]:http://www.dequan.wang/
 [7]:http://hxu.rocks/
 [8]:https://yishuangl.github.io
-[9]:{{ site.baseurl }}/2017/06/20/welcome/
-[10]:http://bair.berkeley.edu/faculty.html
-[11]:http://bair.berkeley.edu/students.html
-[12]:https://scholar.google.com/citations?user=K29Sv1EAAAAJ
-[13]:https://people.eecs.berkeley.edu/~eringrant/
-[14]:https://chloe-hsu.com/
-[15]:http://www.atsunobukotani.com/about
-[16]:https://bthananjeyan.github.io/
-[17]:https://yuqingd.github.io/
-[18]:https://ritwikgupta.me/
-[19]: https://ckwolfe.org/
-[20]: https://ishan-gaur.github.io/
-[21]: https://peterwu.me/
 
 
 <!--
